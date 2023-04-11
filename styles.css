@@ -1,0 +1,128 @@
+.header-img {
+    height: 110px;
+    width: 165px;
+
+  }
+  
+  .img-1-footer {
+    margin-left: 781px;
+
+  }
+
+
+  .butt1 {
+    margin-left: 210px;
+    border-radius: 5px;
+    padding: 8px 15px;
+  }
+
+  .fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 35px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 100%;
+  }
+
+ 
+  .fa-facebook {
+    background: black;
+    color: white;
+  }
+
+  .fa-twitter {
+    background: black;
+    color: white;
+  }
+
+  .fa-youtube {
+    background: black;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: black;
+    color: white;
+  }
+
+  .symbol {
+    margin-left: 1000px;
+    margin-top: -60px;
+  }
+
+  .follow {
+    margin-left: 80px;
+  }
+
+  .last {
+    color: rgb(93, 93, 125);
+    margin-left: -85px;
+    padding-right: 30px;
+    text-align: center;
+
+    font-size: 13px;
+  }
+
+  .i1 {
+  width: 168Px;
+  height: 80px;
+  margin: 15px 131px;
+}
+  .card{
+    margin-top: -15px;
+    margin-bottom:-20px;
+    height:auto ;
+    width:auto  ;
+
+  }
+  #x1 {
+    margin-left: 13%;
+    margin-right: 13%;
+  }
+  .card_body{
+      background-color: #7d7575;
+      text-align: center;
+  }
+  .text-start{
+  size:20px;
+  }
+.mainb{
+  
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+  }
+
+  a {
+
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  .d-grid{
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  .card-body{
+    margin-top: -15px;
+    margin-bottom:-15px;
+  font-size: small;
+
+  }
+  
+  footer {
+  background-color: #000000;
+  color: rgb(238, 240, 242);
+  padding: 40px 0;
+  font-size: 17px;
+  margin-top: 45px;
+}
+button { 
+  height: 74px; 
+  width: 1500px; 
+  margin-left: -145px;
+  } 
